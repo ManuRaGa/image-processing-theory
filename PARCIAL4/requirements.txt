@@ -1,0 +1,4 @@
+msgpack
+pyzmq
+cbor2
+coppeliasim_zmqremoteapi_client
